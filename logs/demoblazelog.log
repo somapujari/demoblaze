@@ -1,0 +1,13 @@
+test_addtocart  started : 2023-07-03 13:35:10,150  : 21 : test_AddToCart
+opening url = https://www.demoblaze.com/ : 2023-07-03 13:35:10,150  : 23 : test_AddToCart
+clicking phone pdoiducts : 2023-07-03 13:35:13,388  : 32 : test_AddToCart
+selecting phones : 2023-07-03 13:35:13,466  : 34 : test_AddToCart
+adding to cart : 2023-07-03 13:35:16,313  : 36 : test_AddToCart
+opening cart : 2023-07-03 13:35:17,695  : 39 : test_AddToCart
+ordering submit : 2023-07-03 13:35:19,469  : 41 : test_AddToCart
+entering name=vishal : 2023-07-03 13:35:19,786  : 43 : test_AddToCart
+entering country=india : 2023-07-03 13:35:19,824  : 45 : test_AddToCart
+clicking purchase : 2023-07-03 13:35:20,018  : 51 : test_AddToCart
+verifying order  : 2023-07-03 13:35:20,272  : 53 : test_AddToCart
+reading orderid : 2023-07-03 13:35:20,707  : 55 : test_AddToCart
+test_addtocart completed : 2023-07-03 13:35:21,966  : 58 : test_AddToCart
